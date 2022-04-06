@@ -1,0 +1,44 @@
+body{
+    background:url(../img/background2.jpg);
+    text-align: center;   
+    font-family:'Times New Roman', Times, serif; 
+    }
+    h1{
+        font-size: 70px;
+        color: #05b8d8;
+        margin-Top: 50px;
+    }
+    p{
+        font-size: 35px;
+        color: #ffffff;
+    
+    }button{
+        padding:10px 30px ;
+        background-color: #e03636;
+        margin-top: 5;
+        font-size: 20px;
+        color: #000000;
+        border: 3px solid #000000;
+        border-radius: 10px;
+        font-family: fantasy;
+        transition-duration: 0.4s;
+        /*  */
+    
+    }
+    /* pasar el cursor y ver un cambio */
+    button:hover {
+    background: #dddddd;
+    color:#000000;
+    border: 5px solid #000000;
+    border-radius: 15px;
+    font-family: fantasy;
+    font-size: 22px;
+    }
+    img{
+        /* tamaño img */
+    size: 1440px 900px;
+    }
+
+    h2{
+        color:antiquewhite;
+    }
